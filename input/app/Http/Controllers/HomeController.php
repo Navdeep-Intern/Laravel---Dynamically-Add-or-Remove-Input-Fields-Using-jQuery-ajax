@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Models\TagList; // Assuming the model is named Certificate
+use App\Models\TagList; // Assuming the model is named TagList
 use Validator;
 
 class HomeController extends Controller
